@@ -1,7 +1,7 @@
 # MIW-RazorPages-AAD
 #### A proof of concept for Azure AD authentication with Razor Pages and multiple APIs
 
-This test solution was set up in preparation for a change in our larger project to move to Azure AD (AAD). The larger project is a collection of separate but related applications with Razor Pages web clients and API backends (all .NET Core).
+This test solution was set up in preparation for a change in our larger project to move to Azure AD (AAD). The larger project is a collection of separate but related applications with Razor Pages web clients and API backends (all .NET Core). The web clients will be supported by mobile applications in the future.
 
 Each web client has its own API but there are a couple of APIs that are shared across multiple clients.
 
